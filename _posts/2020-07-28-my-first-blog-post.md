@@ -1,7 +1,7 @@
 ---
 title: "Learning GitHub Pages"
 date: 2020-07-28
-page: https://hoovivaf2e.github.io/github-pages-with-jekyll/2020/07/28/my-first-blog-post.html
+github page: https://hoovivaf2e.github.io/github-pages-with-jekyll/2020/07/28/my-first-blog-post.html
 ---
 
 在GitHub Pages的課程中，將創建一個託管在GitHub Pages上的部落格，並學習如何：
