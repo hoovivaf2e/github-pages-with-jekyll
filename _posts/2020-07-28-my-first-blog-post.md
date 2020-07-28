@@ -1,3 +1,8 @@
+---
+title: "Learning GitHub Pages"
+date: 2020-07-28
+---
+
 在GitHub Pages的課程中，將創建一個託管在GitHub Pages上的部落格，並學習如何：
 
 * 啟用GitHub Pages
