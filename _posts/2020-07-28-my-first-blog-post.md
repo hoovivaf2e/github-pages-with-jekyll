@@ -58,6 +58,8 @@ date: 2019-01-20
 
 ## 7. 合併你的第一篇文章 (Merge your first post)
 
+- 將分支合併到 master 分支
+
 ## 學習資源
 學習[GitHub Pages](https://lab.github.com/githubtraining/github-pages)透過[GitHub Learning Lab course](https://lab.github.com/)
 
