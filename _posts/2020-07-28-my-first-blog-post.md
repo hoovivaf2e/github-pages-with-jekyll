@@ -44,7 +44,7 @@ github page: https://hoovivaf2e.github.io/github-pages-with-jekyll/2020/07/28/my
 
 - 將更改提交到剛建立的分支。
 
-## 6. Add blog post metadata
+## 6. 添加部落格文章的metadata (Add blog post metadata)
 - 創建了文章後，可以對其添加語法。Jekyll文件使用的語法為YAML。它位於文件的頂部，看起來像這樣：
 
 ```yaml
