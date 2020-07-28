@@ -33,5 +33,15 @@ date: 2020-07-28
 	- 將更改提交到剛建立的分支。
 
 6. Add blog post metadata
+- 創建了文章後，可以對其添加語法。Jekyll文件使用的語法為YAML。它位於文件的頂部，看起來像這樣：
 
-7. Merge your first post
+	```yaml
+	---
+	title: "Welcome to my blog"
+	date: 2019-01-20
+	---
+	```
+
+	還可以在這裡添加其他有用的東西，例如佈局，類別或任何其他對您有用的邏輯。相關配置可以參考[Jekyll front matter documentation](https://jekyllrb.com/docs/front-matter/)
+
+7. 合併你的第一篇文章 (Merge your first post)
