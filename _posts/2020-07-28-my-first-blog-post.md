@@ -57,3 +57,7 @@ date: 2019-01-20
 還可以在這裡添加其他有用的東西，例如佈局，類別或任何其他對您有用的邏輯。相關配置可以參考[Jekyll front matter documentation](https://jekyllrb.com/docs/front-matter/)
 
 ## 7. 合併你的第一篇文章 (Merge your first post)
+
+## 學習資源
+學習[GitHub Pages](https://lab.github.com/githubtraining/github-pages)透過[GitHub Learning Lab course](https://lab.github.com/)
+
